@@ -1,7 +1,14 @@
-# Mathcards
+# Math Cards Project
 
-## View HTML Pages
+## Description
+This project provides interactive math card games that help users memorize and practice various mathematical concepts.
 
-- [Page 1](https://raw.githubusercontent.com/jacknixon-cloud/mathcards/main/path/to/page1.html)
-- [Page 2](https://raw.githubusercontent.com/jacknixon-cloud/mathcards/main/path/to/page2.html)
-- [Page 3](https://raw.githubusercontent.com/jacknixon-cloud/mathcards/main/path/to/page3.html)
+## Features
+- Engaging visual cards for different math topics.
+- Interactive quizzes to test knowledge.
+- Links to view the games in HTML format.
+
+## HTML Pages
+- [Index Page](https://htmlpreview.github.io/?https://github.com/jacknixon-cloud/mathcards/blob/main/index.html)
+- [Support Page](https://htmlpreview.github.io/?https://github.com/jacknixon-cloud/mathcards/blob/main/support.html)
+- [Privacy Policy](https://htmlpreview.github.io/?https://github.com/jacknixon-cloud/mathcards/blob/main/privacy.html)
