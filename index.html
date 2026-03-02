@@ -4,6 +4,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="color-scheme" content="dark" />
   <title>Apps</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -12,6 +13,8 @@
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
 ```
+html { background-color: #0d0f12; color: #f0f2f8; }
+
 :root {
   --bg: #0d0f12;
   --surface: #181c23;
@@ -24,8 +27,8 @@
 }
 
 body {
-  background: var(--bg);
-  color: var(--text);
+  background: #0d0f12 !important;
+  color: #f0f2f8 !important;
   font-family: 'DM Sans', sans-serif;
   min-height: 100vh;
   padding: 2.5rem 1.25rem 5rem;
@@ -144,7 +147,7 @@ header p {
 .page-link:hover { background: var(--border); }
 
 .page-link::before {
-  content: '→';
+  content: '\2192';
   font-family: 'DM Mono', monospace;
   font-size: 0.75rem;
   color: var(--muted);
